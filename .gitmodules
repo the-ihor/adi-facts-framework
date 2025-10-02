@@ -1,0 +1,3 @@
+[submodule "external/facts-framework"]
+	path = external/facts-framework
+	url = git@github.com:the-ihor/adi-facts-framework.git
