@@ -5,7 +5,7 @@ description: Add a new user-defined fact to facts.md
 
 ## Context
 
-- Current facts.md content: !`cat .claude/facts/facts.md`
+- Current facts.md content: !`test -f .claude/facts/facts.md && cat .claude/facts/facts.md || echo "File does not exist yet - will be created"`
 
 ## Your task
 
